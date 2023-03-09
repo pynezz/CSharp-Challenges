@@ -1,0 +1,15 @@
+/home/kevin/Dev/Codewars/Dotnet/SplitString/obj/Debug/net6.0/SplitString.csproj.AssemblyReference.cache
+/home/kevin/Dev/Codewars/Dotnet/SplitString/obj/Debug/net6.0/SplitString.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevin/Dev/Codewars/Dotnet/SplitString/obj/Debug/net6.0/SplitString.AssemblyInfoInputs.cache
+/home/kevin/Dev/Codewars/Dotnet/SplitString/obj/Debug/net6.0/SplitString.AssemblyInfo.cs
+/home/kevin/Dev/Codewars/Dotnet/SplitString/obj/Debug/net6.0/SplitString.csproj.CoreCompileInputs.cache
+/home/kevin/Dev/Codewars/Dotnet/SplitString/bin/Debug/net6.0/SplitString
+/home/kevin/Dev/Codewars/Dotnet/SplitString/bin/Debug/net6.0/SplitString.deps.json
+/home/kevin/Dev/Codewars/Dotnet/SplitString/bin/Debug/net6.0/SplitString.runtimeconfig.json
+/home/kevin/Dev/Codewars/Dotnet/SplitString/bin/Debug/net6.0/SplitString.dll
+/home/kevin/Dev/Codewars/Dotnet/SplitString/bin/Debug/net6.0/SplitString.pdb
+/home/kevin/Dev/Codewars/Dotnet/SplitString/obj/Debug/net6.0/SplitString.dll
+/home/kevin/Dev/Codewars/Dotnet/SplitString/obj/Debug/net6.0/refint/SplitString.dll
+/home/kevin/Dev/Codewars/Dotnet/SplitString/obj/Debug/net6.0/SplitString.pdb
+/home/kevin/Dev/Codewars/Dotnet/SplitString/obj/Debug/net6.0/SplitString.genruntimeconfig.cache
+/home/kevin/Dev/Codewars/Dotnet/SplitString/obj/Debug/net6.0/ref/SplitString.dll
